@@ -13,3 +13,9 @@ Learn typeScript with Minin youtube course https://youtu.be/nyIpDs2DJ_c
 ### `tsc 2_interfaces.ts`
 
 ### `node 2_interfaces.js`
+
+## How to test ENUMS in node.js
+
+### `tsc 3_enums.ts`
+
+### `node 3_enums.js`
