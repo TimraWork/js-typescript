@@ -2,7 +2,9 @@
   "name": "typescript",
   "description": "",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  },
   "scripts": {
     "dev": "eslint js/"
   }
