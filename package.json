@@ -1,0 +1,9 @@
+{
+  "name": "typescript",
+  "description": "",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "dev": "eslint js/"
+  }
+}
