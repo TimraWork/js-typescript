@@ -4,18 +4,20 @@ Learn typeScript with Minin youtube course https://youtu.be/nyIpDs2DJ_c
 
 ## How to test TYPES in node.js
 
-### `tsc src/1_types.ts`
-
-### `node src/1_types.js`
+### `ts-node src/1_types.ts`
 
 ## How to test INTERFACES in node.js
 
-### `tsc src/2_interfaces.ts`
-
-### `node src/2_interfaces.js`
+### `ts-node src/2_interfaces.ts`
 
 ## How to test ENUMS in node.js
 
-### `tsc src/3_enums.ts`
+### `ts-node src/3_enums.ts`
 
-### `node src/3_enums.js`
+## How to test FUNCTIONS in node.js
+
+### `ts-node src/4_functions.ts`
+
+## How to test CLASSES in node.js
+
+### `ts-node src/5_classes.ts`

@@ -6,6 +6,9 @@
     "reflect-metadata": "^0.1.13"
   },
   "scripts": {
-    "dev": "eslint js/"
+    "build": "tsc src/4_functions.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^9.1.1"
   }
 }
